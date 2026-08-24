@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.0-beta.159 - 2026-08-24
+
+### Added
+
+- Add support for: K1T344
+
 ## 3.0.0-beta.158 - 2026-08-03
 
 ### Changed
